@@ -93,7 +93,7 @@ streamlit run app.py
 The application is deployed on Streamlit Cloud.
 
 Live App Link:
-ADD_YOUR_DEPLOYMENT_LINK_HERE
+https://fact-check--agent.streamlit.app/
 
 ---
 
